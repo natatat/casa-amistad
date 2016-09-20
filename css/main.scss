@@ -62,7 +62,9 @@ a {
   left: 0;
   right: 0;
   background: $casa-red;
-  padding: 25px 50px;
+  height: 50px;
+  padding-top: 15px;
+  padding-bottom: 25px;
   z-index: 1;
   border-bottom: 2px solid white;
 
@@ -89,6 +91,7 @@ a {
   #nav {
     float: right;
     margin-top: 20px;
+    font-size: .9em;
 
     li {
       text-transform: uppercase;
@@ -98,9 +101,15 @@ a {
   }
 }
 
+#content {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+
 .home {
   .backdrop {
-    top: -1350px;
+    top: -1450px;
     position: absolute;
     z-index: -1;
     width: 100%;
@@ -114,8 +123,9 @@ a {
     color: white;
     background: $casa-burnt-orange;
     position: absolute;
-    top: 800px;
-    padding: 50px;
+    top: 600px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     min-height: 300px;
 
     img {
