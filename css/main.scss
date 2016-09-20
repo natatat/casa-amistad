@@ -48,10 +48,10 @@ body {
   position: fixed;
   left: 0;
   right: 0;
-  background: $casa-burnt-orange;
-  color: white;
+  background: $casa-red;
   padding: 25px 50px;
   z-index: 1;
+  border-bottom: 2px solid white;
 
   a {
     color: white;
@@ -76,7 +76,7 @@ body {
 
   #nav {
     float: right;
-    margin-top: $base-font-size;
+    margin-top: 20px;
 
     li {
       text-transform: uppercase;
@@ -89,13 +89,14 @@ body {
 .home {
   .backdrop {
     top: -1350px;
-    position: fixed;
+    position: absolute;
     z-index: -1;
     width: 100%;
     overflow: hidden;
   }
 
   .welcome {
+    border-top: 2px solid white;
     line-height: $base-font-size * 1.5;
     font-size: 18px;
     color: white;
