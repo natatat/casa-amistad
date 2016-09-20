@@ -16,7 +16,7 @@ Situated just a 3 minute walk from fabulous surf at Guiones Beach, and also a 2-
 
 ---
 
-## We have 2 rentals
+## We have 2 rentals —
 
 ### Casa Amistad, the main house *(sleeps 4 comfortably)*
 
