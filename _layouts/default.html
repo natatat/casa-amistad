@@ -16,6 +16,7 @@
       <div id="content">
         <div class="images {{page.class}}">
           <div class="container">
+
             {% if {{page.class}} == 'rates' %}
             <div class="row">
               <img class="col-4" src="{{ site.baseurl }}/uploads/Costa%20Rica%20001.jpg">
@@ -23,6 +24,38 @@
               <img class="col-4" src="{{ site.baseurl }}/uploads/DSC01630.JPG">
             </div>
             {% endif %}
+
+            {% if {{page.class}} == 'studio' %}
+            <div class="row">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/IMG_0067.JPG">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/IMG_0036.JPG">
+            </div>
+            <div class="row">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/IMG_0058.JPG">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/IMG_0789.jpg">
+            </div>
+            <div class="row">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/Costa%20Rica%20012.jpg">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/Costa%20Rica%20006.jpg">
+            </div>
+            {% endif %}
+
+            {% if {{page.class}} == 'main-house' %}
+            <div class="row">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/IMG_0783.jpg">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/IMG_0067.JPG">
+            </div>
+            <div class="row">
+              <img class="col-4" src="{{ site.baseurl }}/uploads/DSC01348.JPG">
+              <img class="col-4" src="{{ site.baseurl }}/uploads/IMG_1500.jpg">
+              <img class="col-4" src="{{ site.baseurl }}/uploads/IMG_0396.jpg">
+            </div>
+            <div class="row">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/DSC01341.JPG">
+              <img class="col-6" src="{{ site.baseurl }}/uploads/DSC01345.JPG">
+            </div>
+            {% endif %}
+
           </div>
         </div>
         <div class="{{page.class}}">

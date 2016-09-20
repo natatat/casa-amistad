@@ -57,6 +57,10 @@ a {
   color: white;
 }
 
+img {
+  border-radius: 3px;
+}
+
 #header {
   position: fixed;
   left: 0;
@@ -79,6 +83,13 @@ a {
 
     li {
       display: inline-block;
+
+      &.current {
+        a {
+          border-bottom: 3px solid white;
+          padding-bottom: 6px;
+        }
+      }
     }
   }
 
@@ -128,10 +139,6 @@ a {
     padding-bottom: 50px;
     min-height: 300px;
 
-    img {
-      border-radius: 5px;
-    }
-
     .col-7 {
       p {
         margin-top: 0;
@@ -149,8 +156,10 @@ a {
 
   &.images {
     background: white;
-    img {
-      border-radius: 3px;
-    }
   }
+}
+
+.studio, .main-house {
+  background: $casa-burnt-orange;
+  padding-top: 50px;
 }

@@ -18,11 +18,11 @@ Situated just a 3 minute walk from fabulous surf at Guiones Beach, and also a 2-
 
 ## We have 2 rentals —
 
-### Casa Amistad, the main house *(sleeps 4 comfortably)*
+### [Casa Amistad](/main-house), the main house *(sleeps 4 comfortably)*
 
 The main house has 2 bedrooms, one queen bed & 2 twins; a bathroom, a nice sized living room, & a fully equipped kitchen. There is a good sized front porch with a hammock & a small yard. The house is air conditioned with fans, has a safe for your valuables, & a secure room for your surfboards.
 
-### Casita Amistad, the studio *(sleeps 2 comfortably)*
+### [Casita Amistad](studio), the studio *(sleeps 2 comfortably)*
 
 The studio is a fully equipped studio apartment with a queen bed.
 
@@ -30,4 +30,4 @@ The studio is a fully equipped studio apartment with a queen bed.
 
 The exact location is across the street from Kaya Sol (<a href="https://www.google.com/maps/place/Kaya+Sol+Surf+Hotel/@9.9489704,-85.6718352,17z/data=!4m5!3m4!1s0x0:0xde72ffbb972a0538!8m2!3d9.9486673!4d-85.6702153?hl=en" target="_blank">noted on the map</a>) behind Juan Surfo’s surf shop.
 
-For more information or questions you may have please email us at [chrisbaschab@gmail.com](mailto:chrisbaschab@gmail.com)
+For more information or any questions you may have, please email us at [chrisbaschab@gmail.com](mailto:chrisbaschab@gmail.com).
