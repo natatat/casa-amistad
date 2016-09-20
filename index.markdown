@@ -4,6 +4,8 @@ date: 2016-09-20 05:06:00 Z
 layout: home
 ---
 
+![IMG_0783.jpg](/uploads/IMG_0783.jpg)
+
 The beauty about Nosara is that it’s a smaller beach community in the heart of a nature preserve where people are friendly and life is peaceful. Iguanas and howler monkeys live in the canopy above the house. The surf is consistent and great for beginner and seasoned surfers.
 
 A car isn’t necessary as everything you’ll need is within walking distance. For further distances bicycles & quads can be rented as well as cars for side trips outside of Nosara.
