@@ -1,7 +1,7 @@
 ---
 title: Rates
-class: rates
 date: 2016-09-13 04:47:00 Z
+class: rates
 ---
 
 <div class="row">
