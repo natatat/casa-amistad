@@ -13,6 +13,8 @@ If you are a movie enthusiast the Frogpad has a great selection of movies includ
 
 Situated just a 3 minute walk from fabulous surf at Guiones Beach, and also a 2-3 minute walk to the mini market, internet, surf shop & restaurants. Being off the main road you will enjoy privacy in our backyard surrounded by lush foliage.
 
+--
+
 # We have 2 rentals
 
 ## Casa Amistad, the main house *(sleeps 4 comfortably)*
@@ -22,5 +24,7 @@ The main house has 2 bedrooms, one queen bed & 2 twins; a bathroom, a nice sized
 ## Casita Amistad, the studio *(sleeps 2 comfortably)*
 
 The studio is a fully equipped studio apartment with a queen bed.
+
+--
 
 The exact location is across the street from Kaya Sol (noted on the map) behind Juan Surfo’s surf shop.
