@@ -3,7 +3,8 @@ title: Rates
 date: 2016-09-13 04:47:00 Z
 ---
 
-CASAMISTAD MAIN HOUSE RATES:
+CASA AMISTAD MAIN HOUSE RATES:
+
 High Season is November through April
 Weekly : $850
 Monthly : $2700
@@ -11,7 +12,8 @@ Low Season is May through October
 Weekly : $650
 Monthly : $1800
 
-CASITAMISTAD STUDIO APARTMENT RATES:
+CASITA AMISTAD STUDIO APARTMENT RATES:
+
 High Season is November through April
 Weekly : $490
 Low Season is May through October
