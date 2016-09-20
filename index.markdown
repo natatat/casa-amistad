@@ -1,7 +1,6 @@
 ---
 title: index
 date: 2016-09-20 05:06:00 Z
-layout: home
 ---
 
 ## It took 3 years of lovingingly handcrafting this home away from home in the heart of Nosara. It is humble, soulful, and warm.
@@ -29,3 +28,5 @@ The studio is a fully equipped studio apartment with a queen bed.
 ---
 
 The exact location is across the street from Kaya Sol (<a href="https://www.google.com/maps/place/Kaya+Sol+Surf+Hotel/@9.9489704,-85.6718352,17z/data=!4m5!3m4!1s0x0:0xde72ffbb972a0538!8m2!3d9.9486673!4d-85.6702153?hl=en" target="_blank">noted on the map</a>) behind Juan Surfo’s surf shop.
+
+For more information or questions you may have please email us at [chrisbaschab@gmail.com](mailto:chrisbaschab@gmail.com)
