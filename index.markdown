@@ -1,6 +1,7 @@
 ---
 title: index
 date: 2016-09-20 05:06:00 Z
+layout: home
 ---
 
 ## It took 3 years of lovingingly handcrafting this home away from home in the heart of Nosara. It is humble, soulful, and warm.

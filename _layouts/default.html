@@ -14,8 +14,21 @@
   <body>
     {% include header.html %}
       <div id="content">
-        <div class="default container">
-          {{ content }}
+        <div class="images {{page.class}}">
+          <div class="container">
+            {% if {{page.class}} == 'rates' %}
+            <div class="row">
+              <img class="col-4" src="{{ site.baseurl }}/uploads/Costa%20Rica%20001.jpg">
+              <img class="col-4" src="{{ site.baseurl }}/uploads/DSC01363.JPG">
+              <img class="col-4" src="{{ site.baseurl }}/uploads/DSC01630.JPG">
+            </div>
+            {% endif %}
+          </div>
+        </div>
+        <div class="{{page.class}}">
+          <div class="container">
+            {{ content }}
+          </div>
         </div>
       </div>
     {% include footer.html %}

@@ -1,25 +1,43 @@
 ---
 title: Rates
+class: rates
 date: 2016-09-13 04:47:00 Z
 ---
 
-CASA AMISTAD MAIN HOUSE RATES:
+<div class="row">
+<div class="col-6">
+<h3>Casa Amistad Main House</h3>
 
-High Season is November through April
-Weekly : $850
-Monthly : $2700
-Low Season is May through October
-Weekly : $650
-Monthly : $1800
+<h4>High Season <em>(November through April)</em></h4>
 
-CASITA AMISTAD STUDIO APARTMENT RATES:
+<p>Weekly – $850<br/>
+Monthly – $2700</p>
 
-High Season is November through April
-Weekly : $490
-Low Season is May through October
-Weekly : $420
-Contact us about longer term rentals
+<h4>Low Season <em>(May through October)</em></h4>
 
-Included is weekly maid service, wireless internet, air conditioning
-Laundry service is available upon request.
-Sorry, No pets.
+<p>Weekly – $650<br/>
+Monthly – $1800</p>
+</div>
+
+<div class="col-6">
+<h3>Casita Amistad Studio Apartment</h3>
+
+<h4>High Season <em>(November through April)</em></h4>
+
+<p>Weekly – $490</p>
+
+<h4>Low Season <em>(May through October)</em></h4>
+
+<p>Weekly – $420</p>
+
+<p>Contact us about longer term rentals.</p>
+</div>
+</div>
+
+<div class="row">
+<div class="col-12">
+<h4><center><em>Included is weekly maid service, wireless internet, air conditioning.<br/>
+Laundry service is available upon request.<br/>
+Sorry, No pets.</em></center></h4>
+</div>
+</div>

@@ -139,3 +139,18 @@ a {
     }
   }
 }
+
+.rates {
+  background: $casa-burnt-orange;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+
+  &.images {
+    background: white;
+    img {
+      border-radius: 3px;
+    }
+  }
+}
