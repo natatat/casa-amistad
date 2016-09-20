@@ -105,5 +105,15 @@ body {
     top: 800px;
     padding: 50px;
     min-height: 300px;
+
+    img {
+      border-radius: 5px;
+    }
+
+    .col-7 {
+      p {
+        margin-top: 0;
+      }
+    }
   }
 }
