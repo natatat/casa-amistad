@@ -11,4 +11,4 @@ If you are a movie enthusiast the Frogpad has a great selection of movies includ
 
 Situated just a 3 minute walk from fabulous surf at Guiones Beach, and also a 2-3 minute walk to the mini market, internet, surf shop & restaurants. Being off the main road you will enjoy privacy in our backyard surrounded by lush foliage.
 
-It took 3 years of lovingingly handcrafting this home away from home in the heart of Nosara. It is humble, soulful, and warm. Enjoy your stay.
+It took 3 years of lovingingly handcrafting this home away from home in the heart of Nosara. It is humble, soulful, and warm. We hope you enjoy your stay.
