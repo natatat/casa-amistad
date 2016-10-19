@@ -18,11 +18,11 @@ Situated just a 3 minute walk from fabulous surf at Guiones Beach, and also a 2-
 
 ## We have 2 rentals —
 
-### [Casa Amistad](/main-house), the main house *(sleeps 4 comfortably)*
+### [Casamistad](/main-house), the main house *(sleeps 4 comfortably)*
 
 The main house has 2 bedrooms, one queen bed & 2 twins; a bathroom, a nice sized living room, & a fully equipped kitchen. There is a good sized front porch with a hammock & a small yard. The house is air conditioned with fans, has a safe for your valuables, & a secure room for your surfboards.
 
-### [Casita Amistad](studio), the studio *(sleeps 2 comfortably)*
+### [Casitamistad](studio), the studio *(sleeps 2 comfortably)*
 
 The studio is a fully equipped studio apartment with a queen bed.
 
