@@ -3,7 +3,7 @@
 
 @charset "utf-8";
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic);
-@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Abhaya+Libre);
 
 // Our variables
 $base-font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -37,7 +37,7 @@ $casa-gray: #666666;
 $casa-dark-gray: #463c3c;
 $casa-light-gray: #cecece;
 
-$fancy-font: "Pacifico", cursive;
+$fancy-font: "Abhaya Libre", serif;
 
 body {
   font-family: $base-font-family;
@@ -55,6 +55,9 @@ hr {
 
 a {
   color: white;
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 img {
@@ -84,7 +87,7 @@ img {
     li {
       display: inline-block;
 
-      &.current {
+      &:hover, &.current {
         a {
           border-bottom: 3px solid white;
           padding-bottom: 6px;
@@ -97,6 +100,12 @@ img {
     font-family: $fancy-font;
     display: inline-block;
     font-size: 2.5em;
+
+    #logo {
+      &:hover {
+        border-bottom: 2px solid white;
+      }
+    }
   }
 
   #nav {

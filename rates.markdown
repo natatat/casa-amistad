@@ -6,7 +6,7 @@ class: rates
 
 <div class="row">
 <div class="col-6">
-<h3>Casamistad Main House</h3>
+<h3><a href="https://www.airbnb.com/rooms/968701" target="#">Casamistad Main House</a></h3>
 
 <h4>High Season <em>(November through April)</em></h4>
 
@@ -20,7 +20,7 @@ $1800/month</p>
 </div>
 
 <div class="col-6">
-<h3>Casitamistad Studio Apartment</h3>
+<h3><a href="https://www.airbnb.com/rooms/6425060" target="#">Casitamistad Studio Apartment</a></h3>
 
 <h4>High Season <em>(November through April)</em></h4>
 
