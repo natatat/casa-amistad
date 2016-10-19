@@ -6,7 +6,7 @@ class: rates
 
 <div class="row">
 <div class="col-6">
-<h3>Casa Amistad Main House</h3>
+<h3>Casamistad Main House</h3>
 
 <h4>High Season <em>(November through April)</em></h4>
 
@@ -20,7 +20,7 @@ Monthly – $1800</p>
 </div>
 
 <div class="col-6">
-<h3>Casita Amistad Studio Apartment</h3>
+<h3>Casitamistad Studio Apartment</h3>
 
 <h4>High Season <em>(November through April)</em></h4>
 
