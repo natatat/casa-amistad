@@ -10,13 +10,13 @@ class: rates
 
 <h4>High Season <em>(November through April)</em></h4>
 
-<p>Weekly – $850<br/>
-Monthly – $2700</p>
+<p>$850/week<br/>
+$2700/month</p>
 
 <h4>Low Season <em>(May through October)</em></h4>
 
-<p>Weekly – $650<br/>
-Monthly – $1800</p>
+<p>$650/week<br/>
+$1800/month</p>
 </div>
 
 <div class="col-6">
@@ -24,11 +24,15 @@ Monthly – $1800</p>
 
 <h4>High Season <em>(November through April)</em></h4>
 
-<p>Weekly – $490</p>
+<p>$75/night<br/>
+$450/week<br/>
+$1500/month</p>
 
 <h4>Low Season <em>(May through October)</em></h4>
 
-<p>Weekly – $420</p>
+<p>$65/night<br/>
+$410/week<br/>
+$1400/month</p>
 
 <p>Contact us about longer term rentals.</p>
 </div>
